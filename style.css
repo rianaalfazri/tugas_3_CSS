@@ -1,0 +1,27 @@
+.pertama{
+    border-style: groove;
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.kedua{
+    border-style: groove;
+    background-color: blue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ketiga{
+    border-style: groove;
+    background-color:white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.keempat{
+    border-style: groove;
+    background-color: grey;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
